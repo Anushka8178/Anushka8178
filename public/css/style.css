@@ -1,0 +1,142 @@
+/* Bootstrap Override */
+body {
+   font-family: "Plus Jakarta Sans", sans-serif !important;
+   font-optical-sizing: auto !important;
+   
+   font-style: normal !important;
+   display: flex;
+   flex-direction: column;
+   min-height: 100vh;
+}
+.container{
+   flex: 1;
+}
+.card-text{
+   color: #222222 !important;
+}
+
+.navbar {
+   height: 5rem;
+   background-color: rgb(247, 238, 234);
+}
+
+.fa-snowflake {
+   color: rgb(219, 13, 10);
+   font-size: 2rem;
+}
+.fa-snowflake:hover {
+   color: rgb(240, 111, 156);
+}
+
+.nav-link {
+   color: rgb(87, 8, 8) !important;
+   font-weight: 500 !important;
+}
+.nav-link:hover {
+   color: rgb(192, 62, 62) !important;
+}
+
+/* Footer */
+.f-info-links a {
+   text-decoration: none;
+   color: #222222;
+}
+.f-info-links a:hover {
+   color: crimson;
+}
+.f-info {
+   text-align: center;
+   height: 8rem;
+   display: flex;
+   background-color: rgb(238, 216, 208);
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: space-evenly;
+}
+.f-info-links, .f-info-socials, .f-info-brand {
+   width: 100%;
+   vertical-align: middle;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.f-info-socials i {
+   margin-top: 0.5rem;
+   margin-right: 1rem;
+   font-size: 1.5rem;
+}
+
+/* Cards */
+.listing-card {
+   border: none !important;
+   margin-bottom: 2rem;
+}
+
+.card-img-top {
+   border-radius: 1rem !important;
+   width: 100% !important;
+   object-fit: cover !important;
+   height: 20rem; 
+   
+}
+.main-img{
+   transition: transform .2s ;
+
+}
+
+.main-img:hover {
+   transform: scale(0.9) ;
+}
+
+.card-body {
+   padding: 1rem !important; /* Add some padding for better spacing */
+}
+
+.card-text p {
+   font-weight: 400;
+}
+.listing-link{
+   text-decoration: none;
+}
+/* Card Effect */
+/* .card-img-overlay{
+   opacity: 0;
+   transition: transform .2s;
+
+}
+.card-img-overlay:hover{
+   transform: scale(0.93);
+   
+} */
+ /* New Page */
+ .add-btn{
+   background-color: rgb(227, 74, 100) !important;
+   border: none !important;
+   font-weight: 300 !important;
+
+ }
+ .update-btn{
+   background-color: rgb(227, 74, 100) !important;
+   border: none !important;
+   font-weight: 300 !important;
+
+ }
+ /* Show Page */
+ .show-img{
+   height: 30vh;
+ }
+.btns{
+   display: flex !important;
+   
+}
+.show-card{
+   padding-left: 0 !important;
+   padding-right: 0 !important;
+}
+/* Map */
+
+#map { 
+   height:400px;
+   
+   width: 60vh; }
+
