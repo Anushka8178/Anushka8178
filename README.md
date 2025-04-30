@@ -1,13 +1,12 @@
-**Hi there, I'm Anushka** 👋<br>
-Aspiring Software Developer | Frontend Enthusiast | Tech Explorer<br><br>
+**Real-Time Weather Widget** <br><br>
+🌟**Overview**<br>
+A sleek, responsive, and real-time weather widget built with React and styled using Material-UI. This widget fetches live weather data, allowing users to stay updated with current conditions.<br><br>
 
-🌟 **About Me**<br>
-🖥️ Sophomore in Computer Science Engineering at Amrita University, Amritapuri.<br>
-✨ Aiming to blend technology, creativity, and problem-solving to make an impact.<br>
-<br>
-🚀 **Skills**<br>
-Programming Languages: Java, Python, JavaScript<br>
-Web Development: React.js, Node.js, Express, MongoDB<br>
-Tools & Frameworks: Passport.js, Cloudinary, Mapbox, Leap Motion<br>
-Other Interests: Machine Learning, AI, and Gesture Detection<br>
-<br>
+🚀 **Features**<br>
+🌤 Displays real-time weather information.<br>
+🌎 Supports location-based weather updates.<br>
+🎨 Clean, modern design with Material-UI.<br>
+📱 Fully responsive across devices.<br><br>
+⚙️ **Tech Stack**<br>
+Frontend: React.js<br>
+Styling: Material-UI<br>
