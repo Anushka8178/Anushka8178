@@ -1,6 +1,6 @@
 # Anushka Das - GitHub Portfolio
 
-Welcome! I'm a second-year Computer Science Engineering student at Amrita University. I'm passionate about **Web Development**, **AI/ML**, and **Frontend Development**. Here you'll find my projects, built with the latest technologies.
+Welcome! I'm a third-year Computer Science Engineering student at Amrita University. I'm passionate about **Web Development**, **AI/ML**, and **Frontend Development**. Here you'll find my projects, built with the latest technologies.
 
 ## 🛠️ Technologies
 - **Languages**: Python, JavaScript, C++, Java, HTML/CSS
